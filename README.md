@@ -89,8 +89,6 @@ git push origin feature/your-feature-name
 Create a pull request
 Contact
 For any questions or feedback, please reach out to:
-
-Your Name
 Anusha Vooda
 GitHub: Anuvooda
 Thank you for visiting the Spotify Data Analysis in AWS project repository!
