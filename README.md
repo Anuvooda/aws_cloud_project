@@ -42,32 +42,32 @@ To set up this project, follow these steps:
    ```bash
    git clone https://github.com/Anuvooda/spotify-data-analysis-aws.git
    cd spotify-data-analysis-aws
-Configure AWS Services:
+2. Configure AWS Services:
 
 Amazon S3: Create a bucket to store the Spotify data files.
 AWS Glue: Set up Glue jobs and crawlers for ETL operations.
 Amazon Athena: Configure Athena to query the data in S3.
 Amazon QuickSight: Set up QuickSight to connect to Athena and create dashboards.
-IAM Configuration:
+3. IAM Configuration:
 
 Create IAM roles with the necessary permissions for S3, Glue, Athena, and QuickSight.
 Deploy and Configure:
 
-Upload your Spotify data to the S3 bucket.
+4. Upload your Spotify data to the S3 bucket.
 Configure AWS Glue jobs and crawlers to process the data.
 Set up Athena tables and queries to analyze the data.
 Use QuickSight to create dashboards and visualizations.
 Usage
-Upload Data:
+5. Upload Data:
 
 Upload your Spotify data files to the designated S3 bucket.
-Run ETL Jobs:
+6. Run ETL Jobs:
 
 Execute AWS Glue jobs to transform and load the data.
-Query Data:
+7. Query Data:
 
 Use Amazon Athena to run SQL queries on the processed data.
-Create Visualizations:
+8. Create Visualizations:
 
 Access Amazon QuickSight to build and view interactive dashboards.
 Contributing
