@@ -52,27 +52,21 @@ Amazon QuickSight: Set up QuickSight to connect to Athena and create dashboards.
 
 Create IAM roles with the necessary permissions for S3, Glue, Athena, and QuickSight.
 Deploy and Configure:
-
 4. Upload your Spotify data to the S3 bucket.
 Configure AWS Glue jobs and crawlers to process the data.
 Set up Athena tables and queries to analyze the data.
 Use QuickSight to create dashboards and visualizations.
 Usage
 5. Upload Data:
-
 Upload your Spotify data files to the designated S3 bucket.
 6. Run ETL Jobs:
-
 Execute AWS Glue jobs to transform and load the data.
 7. Query Data:
-
 Use Amazon Athena to run SQL queries on the processed data.
 8. Create Visualizations:
-
 Access Amazon QuickSight to build and view interactive dashboards.
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or create a pull request.
-
 Fork the repository
 Create a new branch:
 bash
@@ -89,6 +83,8 @@ git push origin feature/your-feature-name
 Create a pull request
 Contact
 For any questions or feedback, please reach out to:
+
 Anusha Vooda
 GitHub: Anuvooda
+
 Thank you for visiting the Spotify Data Analysis in AWS project repository!
